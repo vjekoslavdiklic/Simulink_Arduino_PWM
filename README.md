@@ -14,3 +14,8 @@ This license allows:
 ✅ For non-commercial purposes
 
 ✅ Requires credit to the original creator
+
+## 💸 Support
+
+If you find this project useful, consider [donating via PayPal](https://paypal.me/vjekosladiklic).
+
