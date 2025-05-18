@@ -5,7 +5,7 @@ Test run of simple LED PWM control with Matlab and Simulink trough Arduino and s
 Feel free to use, share and modify. 
 
 
-I'm shering this under Creative Commons Attribution-NonCommercial (CC BY-NC) licence:
+I'm sharing this repository under Creative Commons Attribution-NonCommercial (CC BY-NC) licence:
 
 This license allows:
 
